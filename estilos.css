@@ -346,6 +346,13 @@ div.lumber-jack-container {
     border-bottom: 3px solid var(--main-color);
 }
 
+.copi p {
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
