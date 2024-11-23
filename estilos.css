@@ -314,6 +314,47 @@ div.lumber-jack-container {
     background-color: var(--bg-color);
 }
 
+  /* contacto */
+
+  .contacto {
+    background-color: var(--second-bg-color);
+  }
+
+  .contacto h2 {
+    margin-bottom: 3rem;
+    color: var(--text-color);
+  }
+
+  .fila {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin: 5rem 0;
+    text-align: center;
+  }
+
+  .col h3 {
+    margin-bottom: 3rem;
+    color: var(--text-color);
+    font-size: 3rem;
+  }
+
+  .contacto .fila .col ul {
+    list-style: none;
+  }
+
+  .contacto .fila .col ul li {
+    margin: 3rem;
+    font-size: 1.8rem;
+  }
+
+  .contacto .fila .col ul li strong {
+    display: inline-block;
+    color: var(--main-color);
+    width: 12rem;
+    font-size: 2rem;
+  }
 
 /* footer */
 
