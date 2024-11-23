@@ -317,7 +317,7 @@ div.lumber-jack-container {
   /* contacto */
 
   .contacto {
-    background-color: var(--second-bg-color);
+    background-color: var(--bg-color);
   }
 
   .contacto h2 {
@@ -352,7 +352,7 @@ font-size:4rem;
 
   .contacto .fila .col ul li strong {
     display: inline-block;
-    color: var(--second-bg-color);
+    color: var(--main-color);
     width: 12rem;
     font-size: 2rem;
   }
