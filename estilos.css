@@ -359,7 +359,7 @@ div.lumber-jack-container {
 /* footer */
 
 .footer {
-    background-color: var(--main-color);
+    background-color: var(--bg-color);
     padding: 50px 0;
 }
 
