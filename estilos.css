@@ -321,8 +321,9 @@ div.lumber-jack-container {
   }
 
   .contacto h2 {
-    margin-bottom: 7rem;
+    margin-bottom: 3rem;
     color: var(--text-color);
+font-size:4rem;
   }
 
   .fila {
