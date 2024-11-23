@@ -131,7 +131,7 @@ section {
 }
 
 .home-img img:hover {
-    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--otro);
+    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
 .social-icon a {
@@ -210,7 +210,7 @@ section {
 }
 
 .sobre-mi-img img:hover {
-    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--otro);
+    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
 .sobre-mi-content h2 {
@@ -272,7 +272,7 @@ section {
     
 }
 .intereses img:hover {
-    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--otro);
+    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
 
