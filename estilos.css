@@ -131,7 +131,7 @@ section {
 }
 
 .home-img img:hover {
-    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--otro);
+    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
 .social-icon a {
@@ -210,7 +210,7 @@ section {
 }
 
 .sobre-mi-img img:hover {
-    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--otro);
+    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
 .sobre-mi-content h2 {
@@ -272,7 +272,7 @@ section {
     
 }
 .intereses img:hover {
-    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--otro);
+    box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
 
@@ -314,6 +314,48 @@ div.lumber-jack-container {
     background-color: var(--bg-color);
 }
 
+  /* contacto */
+
+  .contacto {
+    background-color: var(--bg-color);
+  }
+
+  .contacto h2 {
+    margin-bottom: 3rem;
+    color: var(--text-color);
+font-size:4rem;
+  }
+
+  .fila {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin: 5rem 0;
+    text-align: center;
+  }
+
+  .col h3 {
+    margin-bottom: 3rem;
+    color: var(--text-color);
+    font-size: 3rem;
+  }
+
+  .contacto .fila .col ul {
+    list-style: none;
+  }
+
+  .contacto .fila .col ul li {
+    margin: 3rem;
+    font-size: 1.8rem;
+  }
+
+  .contacto .fila .col ul li strong {
+    display: inline-block;
+    color: var(--main-color);
+    width: 12rem;
+    font-size: 2rem;
+  }
 
 /* footer */
 
@@ -346,6 +388,13 @@ div.lumber-jack-container {
     border-bottom: 3px solid var(--main-color);
 }
 
+.copi p {
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
