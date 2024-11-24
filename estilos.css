@@ -389,6 +389,7 @@ div.lumber-jack-container {
 .footer ul li a {
     color: white;
     transition: 0.3s ease-in-out;
+    border: none;
 }
 
 .footer ul li a:hover {
@@ -402,6 +403,11 @@ div.lumber-jack-container {
     text-align: center;
     align-items: center;
     justify-content: center;
+    border: none;
+}
+.copi a{
+    text-decoration: none;
+    color: rgb(252, 252, 252);
 }
 
 /*scroll*/
