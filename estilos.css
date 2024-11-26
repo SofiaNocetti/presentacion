@@ -511,6 +511,8 @@ div.lumber-jack-container {
     background-position: top center;
     z-index: 1;
 }
+
+/**/
 @media screen and (max-width: 1023px) {
     .banner .slider{
         width: 160px;
@@ -557,9 +559,20 @@ div.lumber-jack-container {
 
 /*reposive*/
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
    
-
+body{
+    background-color: #D2D2D2;
+    background-image:
+    repeating-linear-gradient(
+        to right, transparent 0 100px,
+        #25283b22 100px 101px
+    ),
+    repeating-linear-gradient(
+        to bottom, transparent 0 100px,
+        #25283b22 100px 101px
+    );
+}
     .nav-bar {
         position: absolute;
         top: 100%;
